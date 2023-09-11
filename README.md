@@ -10,9 +10,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasaleick@gmail.com)  
 
 ## Habilidades e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,nestjs,express,prisma)]
-[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,materialui,jest,postman,mongodb)]
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,webpack,py,ruby,rails)]
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,nestjs,express,prisma)](https://www.linkedin.com/in/thomasleick/) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,materialui,jest,postman,mongodb)](https://www.linkedin.com/in/thomasleick/) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,webpack,py,ruby,rails)](https://www.linkedin.com/in/thomasleick/) 
 
 ## ⚡ GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasleick&show_icons=true&theme=dark)
