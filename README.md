@@ -10,11 +10,7 @@
 - [Email](mailto:thomasaleick@gmail.com)
 
 ## Habilidades e Ferramentas
-- [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,nestjs,express,prisma)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,materialui)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=jest,postman)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,webpack)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=py,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,nestjs,express,prisma,html,css,styledcomponents,materialui,jest,postman,mongodb,mysql,postgres,redis,webpack,py,ruby,rails)](https://skillicons.dev)
 
 ## ⚡ GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasleick&show_icons=true&theme=dark)
