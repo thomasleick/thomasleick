@@ -11,7 +11,7 @@
 
 ## Habilidades e Ferramentas
 - React | JavaScript | TypeScript | Node.js | Nodemon | Express.js | NestJS | Prisma
-- (https://skillicons.dev/icons?i=node,react,js,ts)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=node,react,js,ts)](https://skillicons.dev)
 - HTML5 | CSS3 | Styled Components | Material-UI
 - npm | Jest | Postman
 - MongoDB | PostgreSQL | Redis | Webpack | C
