@@ -10,12 +10,11 @@
 - [Email](mailto:thomasaleick@gmail.com)
 
 ## Habilidades e Ferramentas
-- React | JavaScript | TypeScript | Node.js | Nodemon | Express.js | NestJS | Prisma
-- [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts)](https://skillicons.dev)
-- HTML5 | CSS3 | Styled Components | Material-UI
-- npm | Jest | Postman
-- MongoDB | PostgreSQL | Redis | Webpack | C
-- ESLint | Prettier | Notion | Trello | Figma | Swagger
+- [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,nestjs,express,prisma)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,materialui)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=jest,postman)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,webpack)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=py,ruby,rails)](https://skillicons.dev)
 
 ## ⚡ GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasleick&show_icons=true&theme=dark)
