@@ -6,8 +6,8 @@
 - 💻 Amante de programação, musculação, nutrição e um bom café ☕
 
 ## Formas de contato
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasleick/)
-- [Email](mailto:thomasaleick@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasleick/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasaleick@gmail.com)
 
 ## Habilidades e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,nestjs,express,prisma)]
