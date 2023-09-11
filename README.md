@@ -6,7 +6,7 @@
 - 💻 Amante de programação, musculação, nutrição e um bom café ☕
 
 ## Formas de contato
-- [LinkedIn](https://www.linkedin.com/in/thomasleick/)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://www.linkedin.com/in/thomasleick/)
 - [Email](mailto:thomasaleick@gmail.com)
 
 ## Habilidades e Ferramentas
