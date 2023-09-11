@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá, eu sou Thomas Andrioli Leick 🚀
 
-<!--
-**thomasleick/thomasleick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🌎 São Paulo / SP - Brasil
+- 🎓 Cursei Bacharelado em Física na Universidade de São Paulo
+- 💻 Amante de programação, musculação, nutrição e um bom café ☕
 
-Here are some ideas to get you started:
+## Formas de contato
+- [LinkedIn](https://www.linkedin.com/in/seu-nome)
+- [Twitter](https://twitter.com/seu-nome)
+- [Email](mailto:seu-email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades e Ferramentas
+- React | JavaScript | TypeScript | Node.js | Nodemon | Express.js | NestJS | Prisma
+- HTML5 | CSS3 | Styled Components | Material-UI
+- npm | Jest | Postman
+- MongoDB | PostgreSQL | Redis | Webpack | C
+- ESLint | Prettier | Notion | Trello | Figma | Swagger
+
+## ⚡ GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)
+
+## ⚡ Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome&layout=compact&theme=dark)
+
+## ⚡ GitHub Streak Stats
+![Estatísticas de streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-nome&theme=dark)
