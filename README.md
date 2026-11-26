@@ -86,3 +86,15 @@ Agent Orchestration · AI-DLC · Spec-Driven Development
 ## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasleick&show_icons=true&theme=dark&hide_border=true)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasleick&layout=compact&theme=dark&hide_border=true)
+
+### Commit Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=thomasleick&theme=dark&hide_border=true)
+
+### Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomasleick&theme=github-dark&hide_border=true&area=true)
