@@ -6,6 +6,10 @@ São Paulo, Brazil
 
 [LinkedIn](https://www.linkedin.com/in/thomasleick/) · [Portfolio](https://thomasleick.vercel.app/) · [Email](mailto:thomasaleick@gmail.com)
 
+### Contribution Calendar
+
+![GitHub Contributions](https://contribkit.app/user/thomasleick.svg)
+
 ## About me
 
 Software Engineer working in technology since 2018, with experience in backend development, software architecture and technical leadership.
