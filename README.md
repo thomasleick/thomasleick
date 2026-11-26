@@ -13,6 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,nestjs,express,prisma)](https://www.linkedin.com/in/thomasleick/)  
 [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,materialui,jest,postman,mongodb)](https://www.linkedin.com/in/thomasleick/)  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,webpack,py,ruby,rails)](https://www.linkedin.com/in/thomasleick/)  
+[![My Skills](https://skillicons.dev/icons?i=supabase,sql,fastfy,openai,codex,claude,gemini)](https://www.linkedin.com/in/thomasleick/)  
 
 ## ⚡ GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasleick&show_icons=true&theme=dark)
